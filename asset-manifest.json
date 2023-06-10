@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/2023-04-semester-simple-twitter-frontend/static/css/main.a73bd759.css",
+    "main.js": "/2023-04-semester-simple-twitter-frontend/static/js/main.c50b8a43.js",
+    "static/media/otheruser-info-banner.svg": "/2023-04-semester-simple-twitter-frontend/static/media/otheruser-info-banner.cb4279fedbcc3b612604c855d146cdb2.svg",
+    "static/media/user-info-banner.svg": "/2023-04-semester-simple-twitter-frontend/static/media/user-info-banner.fe9477d935a771c0a750f9f985002e2a.svg",
+    "static/media/main-user-John-Doe.png": "/2023-04-semester-simple-twitter-frontend/static/media/main-user-John-Doe.97a93639b297aac5480f.png",
+    "static/media/other-user-Jane-Cathy.png": "/2023-04-semester-simple-twitter-frontend/static/media/other-user-Jane-Cathy.4b5dc418270b03faab70.png",
+    "static/media/main-user-John-Doe.svg.svg": "/2023-04-semester-simple-twitter-frontend/static/media/main-user-John-Doe.svg.f92802bbb939474bef44551f995bdca3.svg",
+    "static/media/main-user-John-Doe avatar_50x50.svg": "/2023-04-semester-simple-twitter-frontend/static/media/main-user-John-Doe avatar_50x50.ca877256b2a1e1d5f26b0c24b90aab74.svg",
+    "static/media/setting.svg": "/2023-04-semester-simple-twitter-frontend/static/media/setting.e46719d0ab7e5108ecf7357a974fea40.svg",
+    "static/media/other-user-avatar.svg": "/2023-04-semester-simple-twitter-frontend/static/media/other-user-avatar.2adf53e9a94d7af4ce3f9112d2fb2d95.svg",
+    "static/media/LOGO.svg": "/2023-04-semester-simple-twitter-frontend/static/media/LOGO.f4e0f3cb828663732e8d001491c2b394.svg",
+    "static/media/notify.svg": "/2023-04-semester-simple-twitter-frontend/static/media/notify.81560a583c4cb2cdf8477fa69ace6c8a.svg",
+    "static/media/Logout.svg": "/2023-04-semester-simple-twitter-frontend/static/media/Logout.5aca5b6e4583238eb30dd233d30664a1.svg",
+    "index.html": "/2023-04-semester-simple-twitter-frontend/index.html",
+    "static/media/profile.svg": "/2023-04-semester-simple-twitter-frontend/static/media/profile.1cfc2cc29996d9d0bcbf4d8bf2502bab.svg",
+    "static/media/home.svg": "/2023-04-semester-simple-twitter-frontend/static/media/home.9e0dcdab57b81fd107e22d53a9027745.svg",
+    "static/media/icon_reply.svg": "/2023-04-semester-simple-twitter-frontend/static/media/icon_reply.ce3101b74f2159def9195688b3c4586e.svg",
+    "static/media/home_selected.svg": "/2023-04-semester-simple-twitter-frontend/static/media/home_selected.c9340fbed3f71adea47a4d9bccf2c2e2.svg",
+    "static/media/msg.svg": "/2023-04-semester-simple-twitter-frontend/static/media/msg.ecdfaf4c4b945c936c2bc95f8a7669d6.svg",
+    "static/media/icon_like.svg": "/2023-04-semester-simple-twitter-frontend/static/media/icon_like.82514f6036e5691317abe655f74587d1.svg",
+    "static/media/icon_post.svg": "/2023-04-semester-simple-twitter-frontend/static/media/icon_post.ada0a9f31aca1931fa762b2ed29b5d57.svg",
+    "static/media/delete.svg": "/2023-04-semester-simple-twitter-frontend/static/media/delete.c2283cfb082ce00efe5a08a17c9825e6.svg",
+    "static/media/back-arrow.svg": "/2023-04-semester-simple-twitter-frontend/static/media/back-arrow.e8ec00a1d11a2567c2fadb6ef56db9d7.svg",
+    "static/media/icon_like_slected.svg": "/2023-04-semester-simple-twitter-frontend/static/media/icon_like_slected.5e5d892842ae545d6d81b84cec2019b6.svg",
+    "main.a73bd759.css.map": "/2023-04-semester-simple-twitter-frontend/static/css/main.a73bd759.css.map",
+    "main.c50b8a43.js.map": "/2023-04-semester-simple-twitter-frontend/static/js/main.c50b8a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a73bd759.css",
+    "static/js/main.c50b8a43.js"
+  ]
+}
